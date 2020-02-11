@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Camp O",id:"375686",isPrivate:!1}]}}]},directory:{relativePath:"",root:"/"}},layoutContext:{}}}});
-//# sourceMappingURL=path----cd79f1c9b9652c754610.js.map
