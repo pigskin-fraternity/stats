@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"2019-20 PF Season",id:"39312",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----4daa664a6f4873946649.js.map
